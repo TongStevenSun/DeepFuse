@@ -1,8 +1,13 @@
-# DeepFuse - Designing a Direct Feedback Loop between Humans and Convolutional Neural Networks through Local Explanations
+# DeepFuse | [Designing a Direct Feedback Loop between Humans and Convolutional Neural Networks through Local Explanations](https://doi.org/10.1145/3610187)
 
 ## Live Demo 
-**Please zoom out the browser to 75% for the best experience**:
+🔎 Please zoom out the browser to **75%** for the best experience:
 https://deepfuse-gui-demo-app-001.herokuapp.com/
+
+## Modeling Implementation
+Based on the RES framework of our KDD'22 paper: [RES: A Robust Framework for Guiding Visual Explanation](https://dl.acm.org/doi/abs/10.1145/3534678.3539419)
+
+Codebase: https://github.com/YuyangGao/RES
 
 ## Citation
 Tong Steven Sun, Yuyang Gao, Shubham Khaladkar, Sijia Liu, Liang Zhao, Young-Ho Kim, and Sungsoo Ray Hong. 2023. Designing a Direct Feedback Loop between Humans and Convolutional Neural Networks through Local Explanations. Proc. ACM Hum.-Comput. Interact. 7, CSCW2, Article 338 (October 2023), 32 pages. https://doi.org/10.1145/3610187
